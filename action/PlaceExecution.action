@@ -1,5 +1,6 @@
 #goal definition
 graspit_interface/Grasp grasp
+geometry_msgs/PoseStamped place_pose_stamp
 ---
 #result definition
 bool success
